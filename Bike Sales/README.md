@@ -12,7 +12,7 @@ Link Project video: https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk
 
 ### Steps followed:
 
-1. Opened dataset with Excel
+1. Opened dataset with Excel and familiarized with data
 
 2. Cleaned and formatted data for visualization
 
