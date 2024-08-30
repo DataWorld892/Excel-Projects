@@ -23,11 +23,11 @@ Project video link: https://www.youtube.com/watch?v=gTK5rNhWJyA
 
 
 ### Steps followed: 
-- Data Extraction: Data was extracted in form of Excel(.XLSX) sheet. 
-- Data cleaning: This will ensure accuracy and reliability of raw data. Inconsistent values and NULL entries were fixed. 
-- Data Processing: Two columns ‘Age Group’ and ‘Month’ were added for deeper analysis of dataset. 
-- Data analysis: Pivot Tables were created for uncovering patterns and trends. 
-- Data Visualization: Various Charts, graphs and slicers were created for visualizing the key insights.
+
+- Data cleaning: Verify data for any missing values and anomalies.
+- Data Processing: Create two columns ‘Age Group’ and ‘Month’ for deeper analysis of dataset.  
+- Data analysis: Create a Pivot tables for uncovering patterns and trends.
+- Data Visualization: Create various Charts, graphs and slicers for visualizing the key insights.
 
 
 ### Insights
