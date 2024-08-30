@@ -10,7 +10,7 @@ Link Dataset: https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&
 
 Link Project Video: https://www.youtube.com/watch?v=OMFlZ6PI6Sk
 
-### The Objectives:
+### The Objectives
 1. Profile and prepare the raw data for analysis
 2. Explore the data with excel pivot tables
 3. Build a dynamic dashboard to visualize patterns and trends
