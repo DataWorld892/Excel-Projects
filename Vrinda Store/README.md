@@ -12,7 +12,7 @@ Dataset link: https://docs.google.com/spreadsheets/d/1N_Aa45UnkPmnwGqNr6oTzvUhb5
 
 Project video link: https://www.youtube.com/watch?v=gTK5rNhWJyA 
 
-### Questions:
+### Questions
 
 1. Which month got the highest sales and orders?
 2. Who purchased more - Men or Women?
@@ -22,7 +22,7 @@ Project video link: https://www.youtube.com/watch?v=gTK5rNhWJyA
 6. Which Channel is contributing maximum to the sales?
 
 
-### Steps followed: 
+### Steps followed 
 
 - Data cleaning: Verify data for any missing values and anomalies.
 - Data Processing: Create two columns ‘Age Group’ and ‘Month’ for deeper analysis of dataset.  
