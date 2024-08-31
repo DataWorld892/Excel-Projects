@@ -34,4 +34,7 @@ Link Project video: https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk
 
 ### Insights
 
+- Customers generally buy bicycles more often for short distances (0-1 mile) than for longer ones (10 miles or more).
+- Men with a higher average income buy more bicycles than women
+- People in the middle age group buy more bicycles than the adolescent and older age groups.
 
