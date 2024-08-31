@@ -1,8 +1,10 @@
 # Coffee Shop Sales
 
+
 ### Introduction
 
-This is dashboard to explore and analyze coffee shop sales 
+In this project, we analyse the sales data of several coffee shops (Maven Roasters) in New York City. 
+The goal is to optimise inventory management, improve decision-making processes and find possible cross-selling opportunities by transforming raw data into useful information for making smarter business decisions.
 
 ### Data Sources
 
@@ -11,10 +13,21 @@ Link Dataset: https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&
 Link Project Video: https://www.youtube.com/watch?v=OMFlZ6PI6Sk
 
 
+### Questions
+
+1. How have Maven Roasters sales trended over time?
+
+2. Which days of the week tend to be busiest, and why do you think that's the case?
+
+3. Which products are sold most and least often? Which drive the most revenue for the business?
 
 
 ### Steps Followed
 - Profile and prepare the raw data for analysis
 - Explore the data with excel pivot tables
 - Build a dynamic dashboard to visualize patterns and trends
+
+
+### Insights
+
 
