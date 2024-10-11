@@ -8,7 +8,7 @@ This Bike sales analytics dashboard using Excel dataset helps to extract detaile
 
 ### Data Source
 
-Link Dataset: https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
+Dataset: https://github.com/AlexTheAnalyst/ExcelTutorial/blob/main/Excel%20Project%20Dataset.xlsx
 
 
 
